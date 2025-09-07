@@ -1,0 +1,5 @@
+{
+  "name": "HTTP Status Code Explainer",
+  "description": "An interactive web application that uses the Gemini API to provide simple, easy-to-understand explanations and analogies for HTTP status codes.",
+  "requestFramePermissions": []
+}
